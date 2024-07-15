@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bfbbc7b21b035a54784e7afe439cc97d, type: 3}
-  m_Name: Iso Grid
+  m_Script: {fileID: 11500000, guid: 499861c601c601d48a161d63cac54b4e, type: 3}
+  m_Name: Hex Grid
   m_EditorClassIdentifier: 
-  nodeBasePrefab: {fileID: 8491200160006116070, guid: 766002ce5d4e39a4388c855ce136cf3b, type: 3}
+  nodeBasePrefab: {fileID: 7642148206857545595, guid: 238bb54f7085cc2458e7212ed6a73eea, type: 3}
   _obstacleWeight: 6
-  _gridWidth: 14
-  _gridHeight: 14
+  _gridWidth: 10
+  _gridDepth: 10
